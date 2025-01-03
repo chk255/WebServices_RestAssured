@@ -1,0 +1,5 @@
+Dependency for Rest-Assured setu
+rest assured,tetsng,hamcrest
+
+import static io.restassured.RestAssured.*;
+import org.hamcrest.Matchers.*;
